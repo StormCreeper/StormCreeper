@@ -10,10 +10,10 @@ Hi there! I'm Telo, a computer graphics student with a passion for experimenting
 - Game development
 
 ## Projects 🚀
-- [Volumetric Cloud Renderer](https://github.com/StormCreeper/Cloud-Rendering)
-- [Main developer and maintainer of the Lettre Hebdomadaire website](lh.rezel.net)
+- [Volumetric Cloud Renderer](https://github.com/StormCreeper/Volumetric-Cloud-Rendering)
+- [Main developer and maintainer of the Lettre Hebdomadaire website 2023-24](lh.rezel.net)
 - [My shadertoy profile](https://www.shadertoy.com/user/StormCreeper)
-- [Minecraft Clone with Procedural Textures and World Gen](https://github.com/StormCreeper/Minecraft-Raytracing)
+- [Minecraft Clone with Procedural Textures and World Gen, using raytracing](https://github.com/StormCreeper/Minecraft-Raytracing)
 - [Games I made with a friend](https://alt404.itch.io/)
 - [3D Tree Generator](https://github.com/StormCreeper/Tree-Generator)
 - Voxel Renderer and Pathtracer (not online yet)
