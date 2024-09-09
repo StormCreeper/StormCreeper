@@ -1,6 +1,6 @@
 # Hi there! I'm Telo | Computer Graphics Enthusiast
 
-Hi there! I'm Telo, a computer graphics student with a passion for experimenting with various graphical concepts. Currently pursuing my studies at Telecom Paris, specializing in computer graphics and embedded systems.
+Hi there! I'm Telo, a computer graphics student with a passion for experimenting with various graphical concepts. Currently pursuing my studies at Telecom Paris and IP Paris, specializing in computer graphicst.
 
 ## Skills 💻
 - 3D programming in OpenGL with C++, and shader programming in GLSL
@@ -20,10 +20,10 @@ Hi there! I'm Telo, a computer graphics student with a passion for experimenting
 - Pathtracing Renderer (not online yet)
 
 ## Education 🎓
-- Currently studying at Telecom Paris, Computer Graphics, and Embedded Systems (2nd year)
+- Currently following the IGD Master track at Institut Polytechnique de Paris (last year).
 
 ## Contact 📧
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/telo-philippe)
+- Find me on [LinkedIn](https://www.linkedin.com/in/telo-philippe)
 
 ## Personal Interests ✨
 I love making things with my hands, including drawing, reading, painting, knitting, and working with cardboard.
