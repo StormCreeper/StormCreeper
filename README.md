@@ -11,16 +11,16 @@ Hi there! I'm Telo, a computer graphics student with a passion for experimenting
 
 ## Projects 🚀
 - [Volumetric Cloud Renderer](https://github.com/StormCreeper/Volumetric-Cloud-Rendering)
-- [Main developer and maintainer of the Lettre Hebdomadaire website 2023-24](lh.rezel.net)
 - [My shadertoy profile](https://www.shadertoy.com/user/StormCreeper)
 - [Minecraft Clone with Procedural Textures and World Gen, using raytracing](https://github.com/StormCreeper/Minecraft-Raytracing)
 - [Games I made with a friend](https://alt404.itch.io/)
 - [3D Tree Generator](https://github.com/StormCreeper/Tree-Generator)
-- Voxel Renderer and Pathtracer (not online yet)
-- Pathtracing Renderer (not online yet)
+- [Voxel Renderer and Pathtracer](https://github.com/StormCreeper/Voxel_Renderer) (not online yet)
+- [Pathtracing Renderer](https://github.com/StormCreeper/TestBuffers) (not online yet)
 
 ## Education 🎓
-- Currently following the IGD Master track at Institut Polytechnique de Paris (last year).
+- 2024 - 2025: Master 2 student in IGD Master track (Interaction, Graphics & Design) at Institut Polytechnique de Paris, in parallel of my last year at Télécom Paris
+- 2022 - 2025: Télécom Paris engineering track, computer science and computer graphics specialization
 
 ## Contact 📧
 - Find me on [LinkedIn](https://www.linkedin.com/in/telo-philippe)
