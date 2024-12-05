@@ -15,8 +15,8 @@ Hi there! I'm Telo, a computer graphics student with a passion for experimenting
 - [Minecraft Clone with Procedural Textures and World Gen, using raytracing](https://github.com/StormCreeper/Minecraft-Raytracing)
 - [Games I made with a friend](https://alt404.itch.io/)
 - [3D Tree Generator](https://github.com/StormCreeper/Tree-Generator)
-- [Voxel Renderer and Pathtracer](https://github.com/StormCreeper/Voxel_Renderer) (not online yet)
-- [Pathtracing Renderer](https://github.com/StormCreeper/TestBuffers) (not online yet)
+- [Voxel Renderer and Pathtracer](https://github.com/StormCreeper/Voxel_Renderer)
+- [Pathtracing Renderer](https://github.com/StormCreeper/TestBuffers)
 
 ## Education 🎓
 - 2024 - 2025: Master 2 student in IGD Master track (Interaction, Graphics & Design) at Institut Polytechnique de Paris, in parallel of my last year at Télécom Paris
