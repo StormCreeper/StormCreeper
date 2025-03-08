@@ -1,6 +1,6 @@
 # Hi there! I'm Telo | Computer Graphics Enthusiast
 
-Hi there! I'm Telo, a computer graphics student with a passion for experimenting with various graphical concepts. Currently pursuing my studies at Telecom Paris and IP Paris, specializing in computer graphicst.
+Hi there! I'm Telo, a computer graphics student with a passion for experimenting with various graphical concepts. Currently pursuing my studies at Telecom Paris and IP Paris, specializing in computer graphics.
 
 ## Interests 💻
 - Computer graphics concepts: voxel raytracing, volume rendering, pathtracing
@@ -25,5 +25,5 @@ Hi there! I'm Telo, a computer graphics student with a passion for experimenting
 ## Contact 📧
 - Find me on [LinkedIn](https://www.linkedin.com/in/telo-philippe)
 
-## Personal Interests ✨
+## Other Interests ✨
 I love making things with my hands, including drawing, reading, painting, knitting, and working with cardboard.
