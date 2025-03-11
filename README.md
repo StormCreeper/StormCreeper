@@ -2,6 +2,9 @@
 
 Hi there! I'm Telo, a computer graphics student with a passion for experimenting with various graphical concepts. Currently pursuing my studies at Telecom Paris and IP Paris, specializing in computer graphics.
 
+My resume: [CV_Telo_PHILIPPE.pdf](https://github.com/user-attachments/files/19183561/CV_2025-03-11_Telo_PHILIPPE.pdf)  
+
+
 ## Interests 💻
 - Computer graphics concepts: voxel raytracing, volume rendering, pathtracing
 - 3D programming in OpenGL with C++, and shader programming in GLSL
